@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Kelly Camayo 🌱
+
+## About me
+
+- I'm a Systems Engineer :computer:
 
 <!--
 **kellycamayo08/kellycamayo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
