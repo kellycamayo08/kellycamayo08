@@ -4,7 +4,7 @@
 
 - I'm a Systems Engineer :computer:
 - I'm a Frontend web developer in training. :white_check_mark:
-- I’m currently learning Python, Azure and reinforcing ReactJs :blue_book:
+- I’m currently learning Python, Next.js, Azure and reinforcing ReactJs :blue_book:
 - How to reach me: kellycamayo08@gmail.com :email:
 
 ## Skills
